@@ -1,7 +1,7 @@
 # Horizon Master Image Automated Update Process
 # Chris Hildebrandt
 # 12-5-2018
-# Version 5.0 updated 2-24-2019
+# Version 5.1 updated 2-24-2019
 # Script will power on all master, Run software updates, and run the logoff Script, Snapshot the Masters, Update the Notes, Recompose or Push Images
 # Change Notes: Removed the dependecy of user input vCenter info, and Folder use, added ServiceNow functions, and fixed some minor reporting issues.
 
